@@ -64,7 +64,11 @@ A big shout out to the [SchoolOfCode](https://github.com/SchoolOfCode) for openi
 
 ## 🧭 Roadmap
 
--
--
--
+Our app is designed with scability in mind!
+
+We are most excited about:
+
+- email integration
+- AI integration
+- building a virtual world to mingle with your colleagues!
 
