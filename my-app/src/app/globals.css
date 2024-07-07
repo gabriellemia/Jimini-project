@@ -86,3 +86,7 @@ video {
   font: inherit;
   vertical-align: baseline;
 }
+
+.main-container {
+  display: flex;
+}
