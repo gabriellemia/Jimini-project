@@ -26,38 +26,21 @@ Traditional collaboration software often fails to engage employees, especially t
 
 Jimini revolutionises collaborative working in the work environment by gamifying productivity and tailoring the experience for individuals with ADHD. It provides a visually appealing and interactive platform where employees can earn rewards, track their achievements, and connect with colleagues in a virtual office environment. By simplifying task management and offering a "start random task" mode, Jimini removes decision-making barriers and fosters a sense of accomplishment.
 
-
-## 📸 Screenshots
-
-
-
 ## 🚀 Key Features
 
-- **Real-time Monitoring:** Get immediate updates on the status of your critical services.
 
-- **Clear Dashboard:** Easily visualise the health of all your dependencies.
-- **Historical Metrics:** Track outage history and identify patterns.
-
-## 🛠️ How It Works
-
-1. **Simple Setup:** Easily add the services you rely on to Hummingbird.
-
-2. **Intuitive Dashboard:** Quickly assess the status of your entire system.
-3. **Actionable Insights:** Use historical data to make informed decisions.
 
 ## 📝 Demo
 
 Watch our 14min demo video here: [https://youtu.be/RXerqapP-ps](https://youtu.be/RXerqapP-ps)
 
-## 📝 Get Started with Hummingbird
+## 📝 Get Started with Jimini
 
-To get started with Hummingbird, visit [https://hummingbird-three.vercel.app/status](https://hummingbird-three.vercel.app/status) to sign up. If you experience any issues during sign up, please use the following demo account:
-
-**email:** alt.y9-0o0xetvy@yopmail.com  
-**password:** hummingbird
-
-Hummingbird is very simple to use, but you can find our documentation in the Github wiki page for this project: [https://github.com/sprintstars/hummingbird/wiki](https://github.com/sprintstars/hummingbird/wiki)
-
+To get started with Hummingbird:
+- clone this repo
+- cd into the folder
+- npm i
+- npm run dev
 
 ## ⚙️ Technologies Used
 
@@ -69,14 +52,15 @@ Hummingbird is very simple to use, but you can find our documentation in the Git
 
 ## 💖 Acknowledgements
 
-Special thanks to the [SchoolOfCode](https://github.com/SchoolOfCode) for opening up a new world of possibilities for us. We're packed and ready for the adventure ahead!
+Special thanks to the team at [Hackathon Party](https://www.hackathonparty.com/) for this super fun weekend!
 
-A big shoutout to Siôn at ManyPets for his invaluable time, feedback and encouragement during our final project work.
+A big shout out to the [SchoolOfCode](https://github.com/SchoolOfCode) for opening up a new world of possibilities for us.
+
+
 
 ## 🧭 Roadmap
 
-- **Proactive Alerts:** Receive notifications via email, Slack, or SMS before your customers notice problems.
+-
+-
+-
 
-- **Customisable Alerts:** Choose how and when you want to be notified.
-
-_..._
