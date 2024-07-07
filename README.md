@@ -1,8 +1,8 @@
-# Jimini – Level Up Your Work.  [![Project Status: WIP](https://img.shields.io/badge/Project%20Status-WIP-yellow.svg)](https://shields.io/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Jimini – Level Up Your Work 🎮.  [![Project Status: WIP](https://img.shields.io/badge/Project%20Status-WIP-yellow.svg)](https://shields.io/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ![WIP](https://github.com/sprintstars/hummingbird/blob/readme/public/images/readme/work-in-progress.png)
 
-Jimini is an app designed to enhance productivity and foster collaborative working. It incorporates gamification and personalisation to create a more engaging and motivating experience for employees, especially those with ADHD.
+Jimini is an app designed to enhance productivity 📈 and foster collaborative 👥 working. It incorporates gamification 🎮 and personalisation to create a more engaging and motivating experience for employees, especially those with ADHD 🧠.
 
 ## Navigating this ReadMe
 
@@ -18,7 +18,7 @@ The SoCa Locas are the team behind Jimini. We're all recent graduates of The Sch
 - Catherine (https://github.com/csarq)
 - Rebekah (https://github.com/RebekahCodes)
 
-## 📸 The problem 
+## The problem 
 
 Traditional collaboration software often fails to engage employees, especially those with ADHD, leading to decreased productivity and burnout. Existing tools lack the personalised incentives and supportive features needed to make teamwork enjoyable and motivating for neurodiverse individuals.
 
@@ -26,15 +26,17 @@ Traditional collaboration software often fails to engage employees, especially t
 
 Jimini revolutionises collaborative working in the work environment by gamifying productivity and tailoring the experience for individuals with ADHD. It provides a visually appealing and interactive platform where employees can earn rewards, track their achievements, and connect with colleagues in a virtual office environment. By simplifying task management and offering a "start random task" mode, Jimini removes decision-making barriers and fosters a sense of accomplishment.
 
-## 🚀 Accomplishments
+## 🥳 What we're most proud of
 
-
+- quick decision making
+- how we worked as a team
+- completed MVP1!!
 
 ## 📝 Demo
 
 Watch our demo video on YouTube: [YouTube](https://www.youtube.com/watch?v=3wBzH0nIvk8&ab_channel=AnnamariaKoutsoras)
 
-## 📝 Get Started with Jimini
+## ⚙️ Get Started with Jimini
 
 To get started with Hummingbird:
 - clone this repo
