@@ -24,7 +24,7 @@ Traditional collaboration software often fails to engage employees, especially t
 
 ## Our solution 
 
-Jimini revolutionises collaborative working by gamifying productivity and tailoring the experience for individuals with ADHD. It provides a visually appealing and interactive platform where employees can earn rewards, track their achievements, and connect with colleagues in a virtual office environment. By simplifying task management and offering a "start random task" mode, Jimini removes decision-making barriers and fosters a sense of accomplishment.
+Jimini revolutionises collaborative working in the work environment by gamifying productivity and tailoring the experience for individuals with ADHD. It provides a visually appealing and interactive platform where employees can earn rewards, track their achievements, and connect with colleagues in a virtual office environment. By simplifying task management and offering a "start random task" mode, Jimini removes decision-making barriers and fosters a sense of accomplishment.
 
 
 ## 📸 Screenshots
