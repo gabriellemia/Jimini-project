@@ -1,4 +1,19 @@
 
+"use client";
+import RandomTask from "./RandonTask/RandomTask.jsx";
+import Sidebar from "/src/app/Sidebar/Sidebar.jsx";
+
+export default function Home() {
+  return (
+    <>
+      <main className="main-container">
+        <Sidebar />
+        <RandomTask />
+      </main>
+    </>
+  );
+
+
 import Link from 'next/link';
 
 export default function LogIn(){
@@ -31,4 +46,5 @@ export default function LogIn(){
       </form>
     </div>
   )
+
 }

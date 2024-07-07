@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={pixelify.className}>
-        <Sidebar />
+        {/* <Sidebar /> */}
         {children}
       </body>
     </html>
